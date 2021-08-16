@@ -1,4 +1,6 @@
 # CollaberaAssignments 
+This repo contains both the assigments solution
+
 To run this project you need below tools
 
 Java 1.8, Eclipes IDE, Maven build tool,Cucumber plugin in eclipes and chrome brower
